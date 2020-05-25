@@ -4,6 +4,7 @@ package studentlist;
  * This class represents students in our application
  *
  * @author Paul Bonenfant
+ * Date: 5/25/2020
  */
 public class Student {
     
